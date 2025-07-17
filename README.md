@@ -1,0 +1,1 @@
+# Indian-Futures-Option-Stock-Pattern-Detection-System
